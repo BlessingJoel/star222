@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="joel suite">
+<test name=" joel case">
+<classes>
+<class name="Selenium.ThroneRecliner"/>
+</classes>
+</test>
+
+<test name="Selenium">
+<classes>
+<class name="Selenium.ThroneSofasClick"></class>
+</classes>
+</test>
+</suite>
